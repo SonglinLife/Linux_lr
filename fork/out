@@ -1,0 +1,2 @@
+This is the parent process.My PID is 6994.
+This is the child process, My PID is 6995. My PPID is 6994.
